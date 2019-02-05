@@ -1,6 +1,6 @@
 # CSS-practice
-Simple blog with articles /n
-skilles learned : /n
-  1 fonts /n
-  2 padding /n
+<p>Simple blog with articles</p> 
+skilles learned : 
+  1 fonts 
+  2 padding 
   
